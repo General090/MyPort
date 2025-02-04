@@ -4,7 +4,7 @@ import { MdOutlineMailOutline } from "react-icons/md";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaWhatsapp } from "react-icons/fa";
 import { useRef } from 'react';
-import emailjs from 'emailjs-com';
+import emailjs from '@emailjs/browser';
 
 const Contact = () => {
   const form = useRef();

@@ -20,7 +20,7 @@ function footer() {
       <div className="footer__socials">
       <a href='https://facebook.com'><FaFacebookF /></a>
       <a href='https://instagram.com'><FaInstagramSquare /></a>
-      <a href='https://x.com'><FaXTwitter /></a>
+      <a href='https://x.com/gospel_kal'><FaXTwitter /></a>
       </div>
     </footer>
   )

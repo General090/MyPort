@@ -17,8 +17,8 @@ const data = [
     id: 2,
     image: Form,
     title: "Functional JavaScript contact form",
-    github: "https://github.com",
-    demo: "https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualiztion"
+    github: "https://github.com/General090/contact",
+    demo: "https://contact-seven-blond.vercel.app/"
   },
   {
     id: 3,
