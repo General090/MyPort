@@ -42,8 +42,8 @@ const About = () => {
           </div>
 
           <p>
-            Hey! I'm Gospel Onuoha, a Front-End Developer who loves turning ideas into functional, beautiful websites. I specialize in building clean, user-friendly experiences using HTML, CSS, JavaScript, React, and NextJs, with a little help from tools like Tailwind CSS.
-            I'm always learning and experimenting with new technology, so I'm Passionate about everything the web can do. Whether i'm adjusting a design, solving a complex coding problem, or just working to make something more efficient, I'm all in.
+            Hey! I'm Gospel Onuoha, a Front-End Developer who loves turning ideas into functional, beautiful websites. I specialize in building clean, user-friendly experiences using HTML, CSS, JavaScript, React, and Next.js, with a little help from tools like Tailwind CSS.
+            I'm always learning and experimenting with new technology, so I'm passionate about everything the web can do. Whether I'm adjusting a design, solving a complex coding problem, or optimizing performance, I'm all in.
             If you like what you see or just want to chat about web development, feel free to reach out!
           </p>
 
