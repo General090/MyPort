@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import ShopCart from '../../assets/ShopCart.jpg'
-import Form from '../../assets/Form.png'
+import Net from '../../assets/Net.png'
 import IMG3 from '../../assets/portfolio3.jpg'
 
 
@@ -15,10 +15,10 @@ const data = [
   },
   {
     id: 2,
-    image: Form,
-    title: "Functional JavaScript contact form",
-    github: "https://github.com/General090/contact",
-    demo: "https://contact-seven-blond.vercel.app/"
+    image: Net,
+    title: "Netflix Clone Site",
+    github: "https://github.com/General090/Neflix",
+    demo: "https://neflix-eta.vercel.app/"
   },
   {
     id: 3,
