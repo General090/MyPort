@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import ShopCart from '../../assets/ShopCart.jpg'
 import Net from '../../assets/Net.png'
-import IMG3 from '../../assets/portfolio3.jpg'
+import Auth from '../../assets/auth.png'
 
 
 const data = [
@@ -22,10 +22,10 @@ const data = [
   },
   {
     id: 3,
-    image: IMG3,
-    title: "The Bright Furture of Web 3.0",
-    github: "https://github.com/General090/news",
-    demo: "https://news-alpha-eight.vercel.app/"
+    image: Auth,
+    title: "AuthApp",
+    github: "https://github.com/General090/auth-front",
+    demo: "https://auth-front-uk6z.onrender.com/"
   },
   
 ]
