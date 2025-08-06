@@ -3,25 +3,33 @@ import './portfolio.css'
 import ShopCart from '../../assets/ShopCart.jpg'
 import Net from '../../assets/Net.png'
 import Auth from '../../assets/auth.png'
+import OJP from "../../assets/ojp.png"
 
 
 const data = [
   {
     id: 1,
+    image: OJP,
+    title: "OJP Technologies Ltd.",
+    github: "https://github.com/General090/OJP-technologies",
+    demo: "https://ojp-technologies.vercel.app/"
+  },
+  {
+    id: 2,
     image: ShopCart,
     title: "Shoping cart for ordering",
     github: "https://github.com/General090/product",
     demo: "https://shop-2lz4mcgfu-gospel-onuohas-projects.vercel.app/"
   },
   {
-    id: 2,
+    id: 3,
     image: Net,
     title: "Netflix Clone Site",
     github: "https://github.com/General090/Neflix",
     demo: "https://neflix-eta.vercel.app/"
   },
   {
-    id: 3,
+    id: 4,
     image: Auth,
     title: "AuthApp",
     github: "https://github.com/General090/auth-front",
