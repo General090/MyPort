@@ -4,6 +4,7 @@ import ShopCart from '../../assets/ShopCart.jpg'
 import Net from '../../assets/Net.png'
 import Auth from '../../assets/auth.png'
 import OJP from "../../assets/ojp.png"
+import Stock from "../../assets/stock.png"
 
 
 const data = [
@@ -35,6 +36,14 @@ const data = [
     github: "https://github.com/General090/auth-front",
     demo: "https://auth-front-uk6z.onrender.com/"
   },
+  {
+    id: 5,
+    image: Stock,
+    title: "Stock Monitoring",
+    github: "https://github.com/General090/stock-front",
+    demo: "https://stock-front-smoky.vercel.app/"
+  },
+  
   
 ]
 
